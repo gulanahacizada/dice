@@ -1,0 +1,9 @@
+.big{
+   display: flex;
+   justify-content: center; 
+   align-items: center;
+   height: 100vh;
+}
+.first{
+    margin-right: 80px;
+}
